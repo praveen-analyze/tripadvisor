@@ -257,6 +257,9 @@ body {
     
     
 }
+.intrest_section__text h2,.intrest_section__text p{
+    margin-left: 8%;
+}
 @media screen and (max-width:800px) {
     .intrest_section__image1{
         flex-basis: 40%;   
